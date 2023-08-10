@@ -150,7 +150,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 247272677}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e48d9ea34825a242b11adf76b9a3128, type: 3}
+  m_Script: {fileID: 11500000, guid: cde6692e7b78acb4fb14845e12dce28a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!212 &247272679
@@ -365,7 +365,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 422396991}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72f6cf9c9fdde57428f84da2b306b811, type: 3}
+  m_Script: {fileID: 11500000, guid: 3d91abf72b0f3e849b5a80264fb64c83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
@@ -764,7 +764,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1082090356}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff59477d99b70034e9ac54f4957e4b87, type: 3}
+  m_Script: {fileID: 11500000, guid: c629de62ef9582d4c8d506fc0647b136, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
@@ -1006,12 +1006,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 2029095360}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 89b2c96b00c055a4bbff744a5fc33bf3, type: 3}
+  m_Script: {fileID: 11500000, guid: 1403453ac6ab7764c90ede3b4297714c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerQ: {fileID: 1082090356}
-  playerW: {fileID: 422396991}
-  targetTime: 2
+  playerQ: {fileID: 0}
+  playerW: {fileID: 0}
+  targetTime: 1
   multiplier: 1
 --- !u!60 &2029095364
 PolygonCollider2D:
